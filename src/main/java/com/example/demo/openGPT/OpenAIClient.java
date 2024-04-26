@@ -32,7 +32,7 @@ public class OpenAIClient {
 	/**
 	 * OpenAI 密钥
 	 */
-	private String apiKey = "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";
+	private String apiKey = "";
 
 	/**
 	 * OpenAI 响应模型
